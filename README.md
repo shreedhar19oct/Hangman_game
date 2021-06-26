@@ -15,6 +15,11 @@ The player guessing the word may, at any time, attempt to guess the whole word. 
 7. The players win when they guess the correct word. If the players get every letter of the word before the host finishes drawing then they win. At any point a player can try to guess the entire word instead of a single letter, but if they guess the wrong word then the host should treat it as if they guessed a wrong letter
 8. Play online or on an app to practice by yourself. Thanks to it's simplicity, online hangman games are everywhere, and easy to find with a quick internet search for "online hangman." Many games use online dictionaries to choose words, allowing your to practice building your vocabulary while you play. You can even play games against opponents from all over the world with some apps.
 
+# Different stages of Hangman
+![ss_06](https://user-images.githubusercontent.com/73355893/123518591-353c2400-d6c4-11eb-8be6-8e7c76c97cfd.png)
+![ss_07](https://user-images.githubusercontent.com/73355893/123518597-38cfab00-d6c4-11eb-9d54-d4cf07d5823c.png)
+
+
 # How hangman game looks
 Starting part of game
 ![ss_01](https://user-images.githubusercontent.com/73355893/123518220-9236da80-d6c2-11eb-9d03-62321a7accea.png)
