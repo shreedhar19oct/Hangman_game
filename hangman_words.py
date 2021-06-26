@@ -1,4 +1,4 @@
-word_list = [ MUSKAN
+word_list = [ 
 'abruptly', 
 'absurd', 
 'abyss', 
