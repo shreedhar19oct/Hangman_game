@@ -14,3 +14,6 @@ The player guessing the word may, at any time, attempt to guess the whole word. 
 6. Draw part of the "hangman" when the players guess wrong. Whenever the players guess a letter that is not in the secret word they get a strike that brings them closer to losing. To show this, the host draws a simple stick figure of a man being hung, adding a new part to the drawing with every wrong answer.
 7. The players win when they guess the correct word. If the players get every letter of the word before the host finishes drawing then they win. At any point a player can try to guess the entire word instead of a single letter, but if they guess the wrong word then the host should treat it as if they guessed a wrong letter
 8. Play online or on an app to practice by yourself. Thanks to it's simplicity, online hangman games are everywhere, and easy to find with a quick internet search for "online hangman." Many games use online dictionaries to choose words, allowing your to practice building your vocabulary while you play. You can even play games against opponents from all over the world with some apps.
+
+Starting part of game
+![ss_01](https://user-images.githubusercontent.com/73355893/123518220-9236da80-d6c2-11eb-9d03-62321a7accea.png)
