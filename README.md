@@ -17,3 +17,19 @@ The player guessing the word may, at any time, attempt to guess the whole word. 
 
 Starting part of game
 ![ss_01](https://user-images.githubusercontent.com/73355893/123518220-9236da80-d6c2-11eb-9d03-62321a7accea.png)
+
+First attempt when the guessed letter is wrong
+![ss_02](https://user-images.githubusercontent.com/73355893/123518287-d5914900-d6c2-11eb-881b-cd12ad45c034.png)
+
+When the guessed letter is correct it gets replaced in the correct blank
+![ss_03](https://user-images.githubusercontent.com/73355893/123518306-f194ea80-d6c2-11eb-90e3-a94c02a85f45.png)
+
+When the game is over it displays the correct word
+![ss_04](https://user-images.githubusercontent.com/73355893/123518337-0ec9b900-d6c3-11eb-8db5-1ace910ff60f.png)
+
+When all guesses are correct it shows you win
+![ss_05](https://user-images.githubusercontent.com/73355893/123518357-1db06b80-d6c3-11eb-80eb-004135cc55a7.png)
+
+
+
+
