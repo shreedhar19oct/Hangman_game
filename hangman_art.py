@@ -1,4 +1,4 @@
-stages = ['''MUSKAN
+stages = ['''
   +---+
   |   |
   O   |
