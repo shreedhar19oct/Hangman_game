@@ -34,7 +34,8 @@ When the game is over it displays the correct word
 ![ss_04](https://user-images.githubusercontent.com/73355893/123518337-0ec9b900-d6c3-11eb-8db5-1ace910ff60f.png)
 
 When all guesses are correct it shows you win
-![ss_05](https://user-images.githubusercontent.com/73355893/123518397-52bcbe00-d6c3-11eb-8baa-5750d0064254.png)
+![ss_08](https://user-images.githubusercontent.com/73355893/123518760-07a3aa80-d6c5-11eb-8a45-8db4ddf49179.png)
+
 
 
 
