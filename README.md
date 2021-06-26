@@ -28,7 +28,9 @@ When the game is over it displays the correct word
 ![ss_04](https://user-images.githubusercontent.com/73355893/123518337-0ec9b900-d6c3-11eb-8db5-1ace910ff60f.png)
 
 When all guesses are correct it shows you win
-![ss_05](https://user-images.githubusercontent.com/73355893/123518357-1db06b80-d6c3-11eb-80eb-004135cc55a7.png)
+![ss_05](https://user-images.githubusercontent.com/73355893/123518397-52bcbe00-d6c3-11eb-8baa-5750d0064254.png)
+
+
 
 
 
