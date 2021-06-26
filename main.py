@@ -1,4 +1,4 @@
-import random  MUSKAN 
+import random 
 
 import hangman_words
 
