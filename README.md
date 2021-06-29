@@ -13,7 +13,7 @@ The player guessing the word may, at any time, attempt to guess the whole word. 
 5. Fill the letter in the blanks if the players guess correctly. Whenever the players guess a letter that is in the secret word, the host fills it into the blank where it occurs. For example, if the word is "zipper" and the players guess "e," then the host will fill in the 5th blank with an "e:" (_ _ _ _ e _).
 6. Draw part of the "hangman" when the players guess wrong. Whenever the players guess a letter that is not in the secret word they get a strike that brings them closer to losing. To show this, the host draws a simple stick figure of a man being hung, adding a new part to the drawing with every wrong answer.
 7. The players win when they guess the correct word. If the players get every letter of the word before the host finishes drawing then they win. At any point a player can try to guess the entire word instead of a single letter, but if they guess the wrong word then the host should treat it as if they guessed a wrong letter
-8. Play online or on an app to practice by yourself. Thanks to it's simplicity, online hangman games are everywhere, and easy to find with a quick internet search for "online hangman." Many games use online dictionaries to choose words, allowing your to practice building your vocabulary while you play. You can even play games against opponents from all over the world with some apps.
+
 
 # Different stages of Hangman
 ![ss_06](https://user-images.githubusercontent.com/73355893/123518591-353c2400-d6c4-11eb-8be6-8e7c76c97cfd.png)
